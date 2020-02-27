@@ -14,6 +14,7 @@ class ViewController: UIViewController {
     super.viewDidLoad()
     
     // detail-page
+    // 장바구니 담기
   }
 
 
