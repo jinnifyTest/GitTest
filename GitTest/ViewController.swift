@@ -15,6 +15,9 @@ class ViewController: UIViewController {
     
     // detail-page
     // 장바구니 담기
+    
+    
+    // comment 기능 추가
   }
 
 
