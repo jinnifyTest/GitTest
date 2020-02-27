@@ -13,7 +13,8 @@ class ViewController: UIViewController {
   override func viewDidLoad() {
     super.viewDidLoad()
     
-    // 장바구니 추가
+    // detail-page
+    // 장바구니 담기
   }
 
 
